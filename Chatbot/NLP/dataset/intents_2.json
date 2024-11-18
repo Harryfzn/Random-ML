@@ -1,0 +1,29 @@
+{
+    "intents":[
+        {
+            "tag": "salam",
+            "pattern": ["hallo", "assalamualaikum", "salam", "siang kak", "malam kak", "pagi kak", "hi", "hy"],
+            "response": ["halo kak ada yang bisa kami bantu?"]      
+        },
+
+        {
+            "tag": "salam",
+            "pattern": ["hallo", "assalamualaikum", "salam", "siang kak", "malam kak", "pagi kak", "hi", "hy"],
+            "response": ["halo kak ada yang bisa kami bantu?"]      
+        },
+
+        {
+            "tag": "salam",
+            "pattern": ["hallo", "assalamualaikum", "salam", "siang kak", "malam kak", "pagi kak", "hi", "hy"],
+            "response": ["halo kak ada yang bisa kami bantu?"]      
+        },
+
+        {
+            "tag": "salam",
+            "pattern": ["hallo", "assalamualaikum", "salam", "siang kak", "malam kak", "pagi kak", "hi", "hy"],
+            "response": ["halo kak ada yang bisa kami bantu?"]      
+        }
+
+    
+    ]
+}
